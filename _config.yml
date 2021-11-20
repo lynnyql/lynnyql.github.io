@@ -4,9 +4,9 @@ title: "Lynn"
 description: ""
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /
+baseurl: https://lynnn.top/
 google_analytics: ''
-disqus: ''
+disqus: 'lynn-blog'
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
