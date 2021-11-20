@@ -13,14 +13,14 @@ permalink: /:title/
 
 # Authors
 authors:
-  lynn:
-    name: Lynn
-    display_name: Lynn
-    gravatar: ""
-    email: ""
-    web: ""
-    twitter: ""
-    description: ""
+  # lynn:
+  #   name: Lynn
+  #   display_name: Lynn
+  #   gravatar: ""
+  #   email: ""
+  #   web: ""
+  #   twitter: ""
+  #   description: ""
 
 # Plugins
 plugins:
